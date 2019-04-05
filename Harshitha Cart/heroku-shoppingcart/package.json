@@ -1,9 +1,6 @@
 {
   "name": "heroku-shoppingcart",
-  "engines": {
-    "node": "0.10.25",
-    "npm": "1.3.10"
-  },
+
   "description": "Shopping cart app",
   "main": "server.js",
   "dependencies": {
@@ -28,10 +25,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-
-  "author": "",
+  "author": "harshitha",
   "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/sandhya123r/heroku-shoppingcart/issues"
-  }
+
+  "version": "1.0.0"
 }
